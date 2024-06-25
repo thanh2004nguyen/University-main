@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888092110713",
+    "project_id": "myuniversity-71f58",
+    "storage_bucket": "myuniversity-71f58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888092110713:android:47f9a05620cbd9d34a49a8",
+        "android_client_info": {
+          "package_name": "com.example.university"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9ilCzQp50v6UNfNdMAfE4AdvHylSW9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
